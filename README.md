@@ -7,7 +7,7 @@
 
 # Advent of Code 2024 in PHP
 
-- [ ] Day 1
+- [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
