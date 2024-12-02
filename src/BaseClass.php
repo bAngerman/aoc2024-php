@@ -40,7 +40,7 @@ class BaseClass
     {
         $f = file_get_contents($this->filePath);
 
-        $f = explode("\n", $f);
+        $f = explode(PHP_EOL, $f);
 
         $this->data = $f;
 
